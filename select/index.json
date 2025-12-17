@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "I Can't Choose to Give Up!",
+  "base_artist": "ヴィルシーナ (CV. 奥野香耶)",
+  "createdAt": "2025-12-17T12:08:20.533469Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "I Can't Choose to Give Up!",
+      "artist": "ヴィルシーナ(奥野香耶)",
+      "has_synced": false,
+      "path": "select/pl_01_I_Can't_Choose_to_Give_Up!_ヴィルシーナ(奥野香耶).txt"
+    }
+  ]
+}
